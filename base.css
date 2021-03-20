@@ -38,11 +38,11 @@
 }
 
 .theme-dark {
-  --background-light: #22262e;
-  --background-light-alt: #1f2329;
-  --background: #171a1f;
-  --background-alt: #1b1f25;
-  --background-dark: #131519;
+  --background-light: #e7ccf8;
+  --background-light-alt: #f1dbff;
+  --background: #e7ccf8;
+  --background-alt: #f1dbff;
+  --background-dark: #dda8fd;
   --text-normal: #d1d1d2;
   --text-muted: #686a6d;
   --text-focus: #fff;
